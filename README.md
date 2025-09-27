@@ -7,4 +7,4 @@ This repository contains a script to parse and transform raw CSV files into the 
 1. Parse raw CSV files.
 2. Transform data fields as per Mycom adapter requirements.
 3. Validate structure and handle missing/incorrect values.
-4. Export the cleaned CSV ready for Mycom ingestion.
+4. Export the cleaned CSV ready for Mycom ingestion
